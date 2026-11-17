@@ -1,1 +1,27 @@
-{"name":"טביליסי – מידע למטייל","short_name":"טביליסי","description":"מדריך למטייל בטביליסי, גאורגיה — יוצר: יעקב זוהר","lang":"he","dir":"rtl","start_url":"./","scope":"./","display":"standalone","orientation":"any","background_color":"#fff8ec","theme_color":"#8e1b34","launch_handler":{"client_mode":"focus-existing"},"icons":[{"src":"icons/icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icons/icon-512.png","sizes":"512x512","type":"image/png"},{"src":"icons/maskable-512.png","sizes":"512x512","type":"image/png","purpose":"maskable"}]}
+{
+  "name": "טביליסי – מידע למטייל",
+  "short_name": "טביליסי",
+  "description": "מדריך מטיילים לטביליסי: מפה, אתרים, מלונות, מסעדות, מסלולים ומזג אוויר",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#fff8ec",
+  "theme_color": "#8e1b34",
+  "lang": "he",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
